@@ -273,6 +273,7 @@ public final class Datum implements Comparable<Datum>
             return endMillis;
         }
     }
+ 
     /**
      * Gibt eine String-Repräsentation dieses Datums zurück.
      * 
