@@ -29,6 +29,12 @@ public class VerleihServiceImpl extends AbstractObservableService implements
      * die Angabe des Mediums möglich. Beispiel: _verleihkarten.get(medium)
      */
     private Map<Medium, Verleihkarte> _verleihkarten;
+    
+    /**
+     * Diese Map speichert für jedes eingefügte Medium einen Array,
+     * welcher bis zu 3 Vormerkern speichert
+     */
+    private Map<Medium, Kunde[]> _vormerkkarten;
 
     /**
      * Der Medienbestand.
