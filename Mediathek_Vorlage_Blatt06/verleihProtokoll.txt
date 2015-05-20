@@ -1,0 +1,26 @@
+Wed May 20 15:04:47 CEST 2015: Ausleihe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 20.5.2015 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+Wed May 20 15:19:45 CEST 2015: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 20.5.2015 verliehen an
+    Kundennummer: 123462
+    Name: John Rambo
+    Telefon: unbekannt
+    Anschrift:
+    Fightstreet 99
+    60311 Frankfurt
